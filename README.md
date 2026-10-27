@@ -8,7 +8,7 @@ The goal is to identify patterns in music streaming data, evaluate potential ind
 
 ⸻
 
-📊 Project at a Glance
+Project at a Glance
 
 Project Detail	Description
 Domain	Music Streaming Analytics
@@ -20,7 +20,7 @@ Key Methods	Data Quality Checks, Descriptive Statistics, Correlation Analysis, D
 
 ⸻
 
-🎯 Business Questions
+Business Questions
 
 This analysis explores five key questions:
 
@@ -32,7 +32,7 @@ This analysis explores five key questions:
 
 ⸻
 
-🔍 Key Findings
+Key Findings
 
 1. Genre Performance
 
@@ -56,7 +56,7 @@ Average and median streaming numbers fluctuate across release years, with no cle
 
 ⸻
 
-📈 Visualizations
+Visualizations
 
 Charts generated using Python and Matplotlib.
 
@@ -70,7 +70,7 @@ Average Streams by Release Year
 
 ⸻
 
-💡 Business Implications
+ Business Implications
 
 * Genre strategy: Investigate high-performing genres further when evaluating marketing opportunities.
 * Content analysis: Explore combinations of audio characteristics rather than relying on a single feature.
@@ -82,7 +82,7 @@ These are potential directions for further investigation, not proven causal reco
 
 ⸻
 
-🛠️ Tools & Skills
+Tools & Skills
 
 * Python
 * pandas
@@ -96,24 +96,7 @@ These are potential directions for further investigation, not proven causal reco
 
 ⸻
 
-📁 Project Structure
-
-music-streaming-analysis/
-├── data/
-│   └── viral_songs.csv
-├── charts/
-│   ├── average_streams_by_genre.png
-│   ├── median_streams_by_viral_status.png
-│   ├── viral_rate_by_genre.png
-│   └── average_streams_by_year.png
-├── report/
-│   └── analysis_report.md
-├── analysis.py
-└── README.md
-
-⸻
-
-⚠️ Limitations
+Limitations
 
 * The criteria used to assign the viral label are not documented in the available dataset.
 * Correlation does not establish causation.
@@ -124,6 +107,6 @@ The findings should therefore be interpreted as patterns within this dataset rat
 
 ⸻
 
-📄 Detailed Report
+Detailed Report
 
 For the complete analysis, methodology, findings, and recommendations, see report/analysis_report.md.
